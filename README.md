@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshmellowon)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My Blog: ![marshmellog](https://marshmellowon.github.io/)
+#### My Blog: [marshmellog](https://marshmellowon.github.io/)
 
 <!--
 **Marshmellowon/Marshmellowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
