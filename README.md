@@ -1,5 +1,13 @@
 ## HI im sangwon
 
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marshmellowon&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmellowon&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+
+
 ## Usable Programming Languages
 
 <div align=flex>
@@ -12,13 +20,6 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 </div>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marshmellowon&theme=react&show_icons=true" height="180px">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmellowon&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
-</a>
 
 #### My Blog: [marshmellog](https://marshmellowon.github.io/)
 
