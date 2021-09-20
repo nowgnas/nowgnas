@@ -20,7 +20,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 </div>
-![trophy](https://github-profile-trophy.vercel.app/?username=Lee Sangwon&column=7&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=s-wlii&column=7&margin-w=15&margin-h=15)
 
 #### My Blog: [marshmellog](https://s-wlii.github.io/)
 
