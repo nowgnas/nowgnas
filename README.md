@@ -1,7 +1,7 @@
 ## HI im sangwon
 
 <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=s-wlii&theme=react&show_icons=true" width="200px" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-wlii&theme=react&show_icons=true" width="500px" height="180px">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-wlii&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
