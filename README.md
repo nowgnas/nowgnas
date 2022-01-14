@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-wlii&theme=react&exclude_repo=Jagi,assignment&layout=compact" width="400px">
 </a>
 <hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align="center">
   <h2>⌨️Languages and Tools⌨️</h2>
   <div align=flex>
