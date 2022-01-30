@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-wlii&theme=react&exclude_repo=Jagi,assignment&layout=compact" width="40%">
 </a>
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801)](https://solved.ac/leo503801)
+<!-- [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801)](https://solved.ac/leo503801) -->
 
 <hr>
 
