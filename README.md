@@ -1,10 +1,10 @@
 ## HI im sangwon
 
 <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=s-wlii&theme=react&show_icons=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=react&show_icons=true" width="50%">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-wlii&theme=react&exclude_repo=Jagi,assignment&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=react&exclude_repo=Jagi,assignment&layout=compact" width="40%">
 </a>
 
 <!-- [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801)](https://solved.ac/leo503801) -->
@@ -92,9 +92,9 @@ Linux                    43 hrs 53 mins      ███████████�
 </div>
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=s-wlii&column=7&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=nowgnas&column=7&margin-w=15&margin-h=15)
 
-#### My Blog: [marshmel.log](https://s-wlii.github.io/)
+#### My Blog: [marshmel.log](https://nowgnas.github.io/)
 
 <!--
 **Marshmellowon/Marshmellowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
