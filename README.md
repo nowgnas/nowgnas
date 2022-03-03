@@ -1,11 +1,11 @@
 ## HI im sangwon
 
 <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="80%" height='200px'>
 </a><br>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" width="43%">
-  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" width="45%" height='200px'>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' width="45%" height='200px'>
 </a>
 
 <hr>
