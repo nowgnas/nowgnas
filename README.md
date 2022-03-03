@@ -1,13 +1,13 @@
 ## HI im sangwon
 
 <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="60%">
 </a><br>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" width="43%">
-</a>
-
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801)](https://solved.ac/leo503801)
+
+</a>
 
 <hr>
 
