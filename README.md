@@ -1,8 +1,9 @@
 ## HI im sangwon
 
 <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" width="40%">
 </a>
+
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" width="40%">
 </a>
