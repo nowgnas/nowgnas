@@ -75,10 +75,10 @@ Last Updated on 02/03/2022 18:48:07 UTC
 
 <!--END_SECTION:waka-->
 
-<div align="center">
+<!-- <div align="center">
   <h2>⌨️Languages and Tools⌨️</h2>
   <div align=flex>
-    <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
+    <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
     <img height="25px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" alt="Python Badge">
   </div>
 
@@ -94,7 +94,35 @@ Last Updated on 02/03/2022 18:48:07 UTC
   <img height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=Ubuntu&amp;logoColor=white" alt="Python Badge">
   </div>
 </div>
-<br>
+<br> -->
+<h2 align=center>⌨️Languages and Tools⌨️</h2>
+<div style='display:grid; grid-template-columns: auto auto auto;'>
+  <div>
+  <h3>🎈Languages🎈</h3>
+  <div style='display:grid; grid-template-columns: auto auto auto;'>
+    <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
+      <img height="25px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" alt="Python Badge">
+  </div>
+  
+  </div>
+  <div>
+  <h3>🛠️Frameworks🛠️</h3>
+  <div style='display:grid; grid-template-columns: auto auto auto;'>
+    <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
+    <img height="25px" src="https://img.shields.io/badge/Node js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white" alt="Python Badge">
+    <img height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=MongoDB&amp;logoColor=white" alt="Python Badge">
+    <img height="25px" src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" alt="Python Badge">
+     <img height="25px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="Python Badge">
+  </div>
+  </div>
+  <div>
+  <h3>⚙️Tools⚙️</h3>
+  <div style='display:grid; grid-template-columns: auto auto auto;'>
+    <img height="25px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&amp;logo=Visual Studio Code&amp;logoColor=white" alt="Python Badge">
+    <img height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=Ubuntu&amp;logoColor=white" alt="Python Badge">
+  </div>
+  </div>
+</div>
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nowgnas&column=7&margin-w=15&margin-h=15) -->
 
