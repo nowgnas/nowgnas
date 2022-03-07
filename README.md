@@ -11,67 +11,68 @@
 <hr>
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-492%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 344 Contributions in the Year 2022
- > 
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
+>
+> 📦 2.3 MB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 58 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 49 Public Repositories
+>
+> 🔑 58 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
-🌆 Daytime    275 commits    ████████░░░░░░░░░░░░░░░░░   33.41% 
-🌃 Evening    231 commits    ███████░░░░░░░░░░░░░░░░░░   28.07% 
+🌞 Morning    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
+🌆 Daytime    275 commits    ████████░░░░░░░░░░░░░░░░░   33.41%
+🌃 Evening    231 commits    ███████░░░░░░░░░░░░░░░░░░   28.07%
 🌙 Night      275 commits    ████████░░░░░░░░░░░░░░░░░   33.41%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-Wednesday    146 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Thursday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   21.14% 
-Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
-Saturday     76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Monday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31%
+Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
+Wednesday    146 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74%
+Thursday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   21.14%
+Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
+Saturday     76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
 Sunday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-JavaScript               23 hrs 6 mins       ███████████████░░░░░░░░░░   59.55% 
-Python                   9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12% 
-Markdown                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+💬 Programming Languages:
+JavaScript               23 hrs 6 mins       ███████████████░░░░░░░░░░   59.55%
+Python                   9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12%
+Markdown                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.39%
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  38 hrs 47 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    38 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
+Last Updated on 05/03/2022 18:46:45 UTC
 
- Last Updated on 05/03/2022 18:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
@@ -94,9 +95,10 @@ Linux                    38 hrs 47 mins      ███████████�
   </div>
 </div>
 <br> -->
+
 <h2 align=center>⌨️Languages and Tools⌨️</h2>
 <div style='display:grid; grid-template-columns: auto auto auto;'>
-  <div>
+  <div width='100px'>
   <h3>🎈Languages🎈</h3>
   <div style='display:grid; grid-template-columns: auto auto auto;'>
     <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
@@ -104,7 +106,7 @@ Linux                    38 hrs 47 mins      ███████████�
   </div>
   
   </div>
-  <div>
+  <div width='100px'>
   <h3>🛠️Frameworks🛠️</h3>
   <div style='display:grid; grid-template-columns: auto auto auto;'>
     <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
@@ -114,7 +116,7 @@ Linux                    38 hrs 47 mins      ███████████�
      <img height="25px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="Python Badge">
   </div>
   </div>
-  <div>
+  <div width='100px'>
   <h3>⚙️Tools⚙️</h3>
   <div style='display:grid; grid-template-columns: auto auto auto;'>
     <img height="25px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&amp;logo=Visual Studio Code&amp;logoColor=white" alt="Python Badge">
