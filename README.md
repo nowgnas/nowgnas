@@ -98,7 +98,7 @@ Last Updated on 05/03/2022 18:46:45 UTC
 
 <h2 align=center>⌨️Languages and Tools⌨️</h2>
 <div>
-  <div style='float:left; margin-right:30px;'>
+  <div style='float:left; margin-right:30px; width:200px'>
   <h3>🎈Languages🎈</h3>
   <div>
     <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
@@ -106,7 +106,7 @@ Last Updated on 05/03/2022 18:46:45 UTC
   </div>
   
   </div>
-  <div style='float:left; margin-right:30px;'>
+  <div style='float:left; margin-right:30px; width:200px'>
   <h3>🛠️Frameworks🛠️</h3>
   <div>
     <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
