@@ -1,81 +1,84 @@
 ## 🤸HI im sangwon
 
-<a href="#"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nowgnas&theme=dracula" />
+
+<!-- <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" height='200px'>
 </a><br>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" height='200px'>
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' height='200px'>
-</a>
+</a> -->
 
 <hr>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 1,274 Contributions in the Year 2022
- > 
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
+>
+> 📦 2.5 MB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 77 Public Repositories 
- > 
-> 🔑 61 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 77 Public Repositories
+>
+> 🔑 61 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-🌆 Daytime    402 commits    ████████░░░░░░░░░░░░░░░░░   31.75% 
-🌃 Evening    417 commits    ████████░░░░░░░░░░░░░░░░░   32.94% 
+🌞 Morning    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
+🌆 Daytime    402 commits    ████████░░░░░░░░░░░░░░░░░   31.75%
+🌃 Evening    417 commits    ████████░░░░░░░░░░░░░░░░░   32.94%
 🌙 Night      363 commits    ███████░░░░░░░░░░░░░░░░░░   28.67%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-Tuesday      176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Wednesday    216 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Thursday     250 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-Friday       163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Saturday     123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
+Monday       185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61%
+Tuesday      176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+Wednesday    216 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06%
+Thursday     250 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75%
+Friday       163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.88%
+Saturday     123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
 Sunday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-Java                     38 hrs 34 mins      ████████████████████░░░░░   82.22% 
-JavaScript               6 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-GitIgnore file           41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
+💬 Programming Languages:
+Java                     38 hrs 34 mins      ████████████████████░░░░░   82.22%
+JavaScript               6 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
+GitIgnore file           41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
-🔥 Editors: 
-IntelliJ                 38 hrs 42 mins      ████████████████████░░░░░   82.5% 
-VS Code                  7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+🔥 Editors:
+IntelliJ                 38 hrs 42 mins      ████████████████████░░░░░   82.5%
+VS Code                  7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84%
 Eclipse                  46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      46 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
+Last Updated on 28/07/2022 18:59:07 UTC
 
- Last Updated on 28/07/2022 18:59:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
