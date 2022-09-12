@@ -120,14 +120,12 @@ Last Updated on 11/09/2022 18:57:14 UTC
     <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
     <img height="25px" src="https://img.shields.io/badge/Node js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white" alt="Python Badge">
     <img height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=MongoDB&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" alt="Python Badge">
      <img height="25px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="Python Badge">
   </div>
   </div>
   <div style='float:left;'>
   <h3>⚙️Tools⚙️</h3>
   <div>
-    <img height="25px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&amp;logo=Visual Studio Code&amp;logoColor=white" alt="Python Badge">
     <img height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=Ubuntu&amp;logoColor=white" alt="Python Badge">
     <img height="25px" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=Docker&amp;logoColor=white" alt="Python Badge">
   </div>
