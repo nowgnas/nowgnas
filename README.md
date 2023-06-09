@@ -101,7 +101,7 @@ Mac                      50 hrs 36 mins      ███████████�
   </div>
 </div>
 <br> -->
-
+<!--
 <h2 align=center>⌨️Languages and Tools⌨️</h2>
 <div>
   <div style='float:left; margin-right:30px; width:200px'>
@@ -131,7 +131,7 @@ Mac                      50 hrs 36 mins      ███████████�
   </div>
   </div>
 </div>
-
+-->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nowgnas&column=7&margin-w=15&margin-h=15) -->
 
 <!--
