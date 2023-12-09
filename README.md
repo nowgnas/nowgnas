@@ -1,7 +1,11 @@
 ## 🤸HI im sangwon
-
+<!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nowgnas&theme=dracula" />
+-->
 
+<div align="center">
+    <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=nowgnas&amp;show_icons=true&amp;theme=material-palenight" alt="nowgnas's GitHub stats" /><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=nowgnas&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
+</div>
 <!-- <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" height='200px'>
 </a><br>
