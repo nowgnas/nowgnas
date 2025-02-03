@@ -35,6 +35,8 @@
 
 > 📦 GitHub의 2.7 MB만큼의 저장소를 사용하고 있어요. 
  > 
+> 🏆 63 만큼의 Contributions을 2025년에 했어요
+ > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 170개의 Public Repository를 만들었어요. 
@@ -68,18 +70,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     0 secs              ████████████████████████░   94.91 % 
-Gradle                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 02/02/2025 18:48:55 UTC
+ Last Updated on 03/02/2025 18:50:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
