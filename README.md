@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C401%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C401%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,6 +34,8 @@
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 2.7 MB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🏆 73 만큼의 Contributions을 2025년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -80,7 +82,7 @@ Mac                      5 mins              ███████████�
 ```
 
 
- Last Updated on 09/02/2025 18:48:12 UTC
+ Last Updated on 10/02/2025 18:51:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
