@@ -25,26 +25,67 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C560%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C561%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.70%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.71%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 103 만큼의 Contributions을 2026년에 했어요
+> 🏆 141 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 173개의 Public Repository를 만들었어요. 
+> 📜 174개의 Public Repository를 만들었어요. 
  > 
-> 🔑 72개의 Private Repository를 만들었어요. 
+> 🔑 73개의 Private Repository를 만들었어요. 
  > 
+**저는 아침형 인간이에요. 🐤** 
 
- Last Updated on 01/03/2026 19:05:14 UTC
+```text
+🌞 아침                     1291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+🌆 낮　                     7664 commits        ████████████████░░░░░░░░░   62.13 % 
+🌃 저녁                     2396 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌙 밤　                     984 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+```
+📅 **제가 가장 생산적인 날은 토요일이에요.** 
+
+```text
+월요일                      1087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+화요일                      1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+수요일                      1762 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+목요일                      1392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+금요일                      1359 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+토요일                      4133 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+일요일                      976 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Markdown                 4 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.57 % 
+TypeScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+
+🔥 에디터들: 
+Cursor                   9 hrs 30 mins       ████████████████████████░   95.10 % 
+IntelliJ IDEA            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+
+💻 운영 체제들: 
+Mac                      10 hrs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/03/2026 19:21:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
