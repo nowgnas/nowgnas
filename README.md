@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C564%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C564%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,7 +47,7 @@
 
 ```text
 🌞 아침                     1291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-🌆 낮　                     7966 commits        ████████████████░░░░░░░░░   63.04 % 
+🌆 낮　                     7965 commits        ████████████████░░░░░░░░░   63.03 % 
 🌃 저녁                     2396 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 🌙 밤　                     984 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
@@ -56,7 +56,7 @@
 ```text
 월요일                      1087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 화요일                      1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-수요일                      1764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+수요일                      1763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 목요일                      1392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 금요일                      1359 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 토요일                      4433 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
@@ -70,22 +70,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 4 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.17 % 
-TypeScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 5 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.46 % 
+TypeScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 에디터들: 
-Cursor                   9 hrs 27 mins       ████████████████████████░   95.08 % 
-IntelliJ IDEA            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Cursor                   10 hrs 10 mins      ████████████████████████░   95.40 % 
+IntelliJ IDEA            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 운영 체제들: 
-Mac                      9 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 19:30:42 UTC
+ Last Updated on 05/03/2026 19:52:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
