@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C565%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.71%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -70,22 +70,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 4 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-TypeScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Markdown                 3 hrs 36 mins       ████████████████░░░░░░░░░   63.85 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 에디터들: 
-Cursor                   9 hrs 53 mins       █████████████████████████   99.55 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Cursor                   5 hrs 37 mins       █████████████████████████   99.53 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 운영 체제들: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 19:18:20 UTC
+ Last Updated on 07/03/2026 19:04:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
