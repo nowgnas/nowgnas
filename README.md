@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C565%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C565%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -70,22 +70,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 36 mins       ████████████████░░░░░░░░░   63.85 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 2 hrs 43 mins       ███████████████░░░░░░░░░░   58.66 % 
+TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Git Config               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 에디터들: 
-Cursor                   5 hrs 37 mins       █████████████████████████   99.53 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Cursor                   4 hrs 37 mins       █████████████████████████   99.43 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2026 19:04:37 UTC
+ Last Updated on 08/03/2026 19:06:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
