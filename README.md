@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C565%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.71%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -35,7 +35,7 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 141 만큼의 Contributions을 2026년에 했어요
+> 🏆 142 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -47,9 +47,9 @@
 
 ```text
 🌞 아침                     1291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-🌆 낮　                     8087 commits        ████████████████░░░░░░░░░   63.39 % 
+🌆 낮　                     8087 commits        ████████████████░░░░░░░░░   63.38 % 
 🌃 저녁                     2396 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-🌙 밤　                     984 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+🌙 밤　                     985 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
@@ -57,9 +57,9 @@
 월요일                      1087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 화요일                      1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 수요일                      1765 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-목요일                      1392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+목요일                      1393 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 금요일                      1359 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-토요일                      4553 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
+토요일                      4553 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
 일요일                      976 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 
@@ -70,21 +70,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               30 mins             ███████████░░░░░░░░░░░░░░   42.83 % 
-Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TypeScript               30 mins             ████████████░░░░░░░░░░░░░   49.93 % 
+Markdown                 22 mins             █████████░░░░░░░░░░░░░░░░   37.38 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🔥 에디터들: 
-Cursor                   1 hr 11 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/03/2026 19:30:51 UTC
+ Last Updated on 11/03/2026 19:36:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
