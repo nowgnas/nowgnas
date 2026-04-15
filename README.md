@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C576%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C576%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,17 +70,20 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    7 mins              █████████████████████████   100.00 % 
+Markdown                 32 mins             ████████████████░░░░░░░░░   62.05 % 
+Other                    13 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Go                       5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 에디터들: 
-Cursor                   7 mins              █████████████████████████   100.00 % 
+Cursor                   52 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 19:58:06 UTC
+ Last Updated on 15/04/2026 19:59:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
