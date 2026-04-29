@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C591%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C592%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -70,23 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
-Markdown                 4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Bash                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Java                     5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+Markdown                 4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            8 hrs 22 mins       ███████████████░░░░░░░░░░   58.29 % 
-Cursor                   4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-Unknown Editor           1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+IntelliJ IDEA            8 hrs 22 mins       █████████████████░░░░░░░░   68.84 % 
+Cursor                   2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Unknown Editor           1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 
 💻 운영 체제들: 
-Mac                      14 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2026 20:10:32 UTC
+ Last Updated on 29/04/2026 20:08:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
