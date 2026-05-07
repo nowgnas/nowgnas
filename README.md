@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C595%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C595%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -70,23 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.89 % 
-Java                     1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Other                    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Groovy                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Markdown                 1 hr 45 mins        █████████████░░░░░░░░░░░░   53.11 % 
+Java                     1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Groovy                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            2 hrs 26 mins       █████████████████░░░░░░░░   68.12 % 
-Unknown Editor           38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Cursor                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+IntelliJ IDEA            2 hrs 26 mins       ██████████████████░░░░░░░   74.00 % 
+Cursor                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Unknown Editor           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 20:18:00 UTC
+ Last Updated on 07/05/2026 20:10:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
