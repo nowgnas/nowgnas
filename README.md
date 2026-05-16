@@ -25,6 +25,8 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C596%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-135.71%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
@@ -41,8 +43,50 @@
  > 
 > 🔑 73개의 Private Repository를 만들었어요. 
  > 
+**저는 저녁형 인간이에요. 🦉** 
 
- Last Updated on 15/05/2026 20:10:08 UTC
+```text
+🌞 아침                     12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+🌆 낮　                     99 commits          ██████████░░░░░░░░░░░░░░░   38.98 % 
+🌃 저녁                     75 commits          ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+🌙 밤　                     68 commits          ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+```
+📅 **제가 가장 생산적인 날은 일요일이에요.** 
+
+```text
+월요일                      28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+화요일                      25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+수요일                      18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+목요일                      6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+금요일                      36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+토요일                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+일요일                      109 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Markdown                 28 mins             ██████████░░░░░░░░░░░░░░░   40.28 % 
+Other                    23 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
+Java                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+
+🔥 에디터들: 
+Unknown Editor           32 mins             ████████████░░░░░░░░░░░░░   46.48 % 
+IntelliJ IDEA            21 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Cursor                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+
+💻 운영 체제들: 
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 19:47:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
