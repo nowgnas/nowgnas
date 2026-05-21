@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C619%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C619%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,24 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 32 mins       ████████████████░░░░░░░░░   62.42 % 
-TypeScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown                 5 hrs 6 mins        ████████████████░░░░░░░░░   63.64 % 
+TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 에디터들: 
-Cursor                   4 hrs 22 mins       ███████████████████░░░░░░   77.35 % 
-Claude Code              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Unknown Editor           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-IntelliJ IDEA            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Cursor                   6 hrs 9 mins        ███████████████████░░░░░░   76.72 % 
+Claude Code              1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 20:42:04 UTC
+ Last Updated on 21/05/2026 20:28:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
