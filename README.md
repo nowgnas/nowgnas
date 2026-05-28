@@ -25,8 +25,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C621%20hrs%2049%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-138.59%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
@@ -43,46 +41,8 @@
  > 
 > 🔑 73개의 Private Repository를 만들었어요. 
  > 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-🌆 낮　                     99 commits          ██████████░░░░░░░░░░░░░░░   38.82 % 
-🌃 저녁                     75 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 밤　                     69 commits          ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-```
-📅 **제가 가장 생산적인 날은 일요일이에요.** 
-
-```text
-월요일                      28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-화요일                      26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-수요일                      18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-목요일                      6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-금요일                      36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-토요일                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-일요일                      109 commits         ███████████░░░░░░░░░░░░░░   42.75 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-JSON                     10 mins             ████████████░░░░░░░░░░░░░   49.38 % 
-Other                    6 mins              ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-
-🔥 에디터들: 
-Cursor                   20 mins             █████████████████████████   100.00 % 
-
-💻 운영 체제들: 
-Mac                      20 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 20:42:16 UTC
+ Last Updated on 28/05/2026 21:04:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
