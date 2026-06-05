@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C622%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C622%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,7 +44,7 @@
 > 🔑 73개의 Private Repository를 만들었어요. 
  > 
 
- Last Updated on 04/06/2026 20:41:11 UTC
+ Last Updated on 05/06/2026 20:35:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
