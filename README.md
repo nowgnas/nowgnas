@@ -25,17 +25,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C644%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C648%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.93%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.84%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 144 만큼의 Contributions을 2026년에 했어요
+> 🏆 160 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -46,21 +46,21 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-🌆 낮　                     6358 commits        ███████████████░░░░░░░░░░   60.17 % 
-🌃 저녁                     2364 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌙 밤　                     1028 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+🌞 아침                     816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌆 낮　                     6330 commits        ███████████████░░░░░░░░░░   60.78 % 
+🌃 저녁                     2278 commits        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+🌙 밤　                     990 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-화요일                      1296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-수요일                      1054 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-목요일                      769 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-금요일                      845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-토요일                      4539 commits        ███████████░░░░░░░░░░░░░░   42.96 % 
-일요일                      1201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+월요일                      842 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+화요일                      1248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+수요일                      1012 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+목요일                      775 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+금요일                      850 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+토요일                      4539 commits        ███████████░░░░░░░░░░░░░░   43.59 % 
+일요일                      1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
@@ -70,23 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     11 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.75 % 
-Markdown                 11 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-SQL                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Java                     12 hrs 59 mins      ███████████░░░░░░░░░░░░░░   44.41 % 
+Markdown                 12 hrs 20 mins      ███████████░░░░░░░░░░░░░░   42.19 % 
+YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 에디터들: 
-VS Code                  9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-IntelliJ IDEA            9 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
-Claude Code              6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+IntelliJ IDEA            11 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.96 % 
+VS Code                  10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
+Claude Code              7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 
 💻 운영 체제들: 
-Mac                      25 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 21:18:19 UTC
+ Last Updated on 11/06/2026 21:10:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
