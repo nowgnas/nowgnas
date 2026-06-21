@@ -25,17 +25,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C662%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C664%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.83%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.84%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 223 만큼의 Contributions을 2026년에 했어요
+> 🏆 231 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -47,20 +47,20 @@
 
 ```text
 🌞 아침                     816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 낮　                     6339 commits        ███████████████░░░░░░░░░░   60.71 % 
-🌃 저녁                     2293 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-🌙 밤　                     994 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 낮　                     6346 commits        ███████████████░░░░░░░░░░   60.73 % 
+🌃 저녁                     2293 commits        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌙 밤　                     994 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
 월요일                      871 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 화요일                      1242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-수요일                      994 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+수요일                      994 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 목요일                      776 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 금요일                      865 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-토요일                      4545 commits        ███████████░░░░░░░░░░░░░░   43.53 % 
-일요일                      1149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+토요일                      4545 commits        ███████████░░░░░░░░░░░░░░   43.50 % 
+일요일                      1156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 
@@ -70,24 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Swift                    10 hrs 30 mins      █████████████████░░░░░░░░   69.44 % 
-Markdown                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Swift                    7 hrs 56 mins       ███████████████░░░░░░░░░░   60.38 % 
+Markdown                 4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 에디터들: 
-Cursor                   13 hrs 49 mins      ███████████████████████░░   91.41 % 
-Claude Code              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-IntelliJ IDEA            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Cursor                   12 hrs 16 mins      ███████████████████████░░   93.24 % 
+Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 운영 체제들: 
-Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 20:14:30 UTC
+ Last Updated on 21/06/2026 20:21:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
