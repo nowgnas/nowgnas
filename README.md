@@ -25,7 +25,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C677%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C677%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -35,7 +35,7 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 303 만큼의 Contributions을 2026년에 했어요
+> 🏆 304 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -47,7 +47,7 @@
 
 ```text
 🌞 아침                     963 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-🌆 낮　                     7140 commits        ██████████████░░░░░░░░░░░   56.05 % 
+🌆 낮　                     7141 commits        ██████████████░░░░░░░░░░░   56.05 % 
 🌃 저녁                     3145 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
 🌙 밤　                     1491 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
@@ -59,7 +59,7 @@
 수요일                      1260 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 목요일                      1022 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 금요일                      1102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-토요일                      4976 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
+토요일                      4977 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
 일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 ```
 
@@ -70,22 +70,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 5 hrs 40 mins       ██████████████████████░░░   86.99 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 4 hrs 39 mins       ██████████████████░░░░░░░   72.18 % 
+TypeScript               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 에디터들: 
-Cursor                   4 hrs 4 mins        ████████████████░░░░░░░░░   62.45 % 
-Claude Code              2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.55 % 
+Cursor                   3 hrs 21 mins       █████████████░░░░░░░░░░░░   51.93 % 
+Claude Code              2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.68 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 20:08:48 UTC
+ Last Updated on 11/07/2026 19:50:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
