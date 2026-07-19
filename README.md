@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C679%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.14%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -70,19 +70,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   41 mins             ███████████████░░░░░░░░░░   60.45 % 
-Markdown                 25 mins             █████████░░░░░░░░░░░░░░░░   37.71 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 19 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 8 mins         █████████████████████████   100.00 % 
+Claude Code              19 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2026 19:53:54 UTC
+ Last Updated on 19/07/2026 19:52:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
