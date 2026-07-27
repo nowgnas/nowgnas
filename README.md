@@ -25,7 +25,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C708%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C691%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -35,7 +37,7 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 351 만큼의 Contributions을 2026년에 했어요
+> 🏆 355 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -47,20 +49,20 @@
 
 ```text
 🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-🌆 낮　                     7140 commits        ██████████████░░░░░░░░░░░   55.98 % 
-🌃 저녁                     3142 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌆 낮　                     7141 commits        ██████████████░░░░░░░░░░░   55.97 % 
+🌃 저녁                     3145 commits        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 🌙 밤　                     1513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      1072 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+월요일                      1076 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 화요일                      1560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 목요일                      1027 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 금요일                      1106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-토요일                      4984 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
-일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+토요일                      4984 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
+일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
 
@@ -70,22 +72,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 32 mins       ██████████████░░░░░░░░░░░   56.35 % 
-TypeScript               2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 3 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.59 % 
+TypeScript               2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 에디터들: 
-Cursor                   3 hrs 10 mins       █████████████░░░░░░░░░░░░   50.67 % 
-Claude Code              3 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.33 % 
+Claude Code              3 hrs 32 mins       ██████████████░░░░░░░░░░░   55.89 % 
+Cursor                   2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.11 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 18 mins (99.47%)
+
+✍️ 12,904 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 169,917,105 Input Tokens, 458,783 Output Tokens
+
+💵 $858.59 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 59 AI Prompts
+
+Opus                     8,687 lines         █████████████████░░░░░░░░   66.76 % 
+GPT                      4,326 lines         ████████░░░░░░░░░░░░░░░░░   33.24 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:55:05 UTC
+ Last Updated on 27/07/2026 20:15:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
