@@ -37,7 +37,7 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 358 만큼의 Contributions을 2026년에 했어요
+> 🏆 359 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -48,10 +48,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 🌆 낮　                     7141 commits        ██████████████░░░░░░░░░░░   55.96 % 
-🌃 저녁                     3145 commits        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-🌙 밤　                     1516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+🌃 저녁                     3145 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌙 밤　                     1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
@@ -61,7 +61,7 @@
 수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 목요일                      1030 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 금요일                      1106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-토요일                      4984 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
+토요일                      4985 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
 일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
@@ -72,45 +72,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 50 mins       █████████████░░░░░░░░░░░░   52.11 % 
-Markdown                 2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.56 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               2 hrs 50 mins       █████████████░░░░░░░░░░░░   53.90 % 
+Markdown                 2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.55 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 에디터들: 
-Claude Code              3 hrs 32 mins       ████████████████░░░░░░░░░   64.79 % 
-Cursor                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   35.21 % 
+Claude Code              3 hrs 32 mins       █████████████████░░░░░░░░   67.02 % 
+Cursor                   1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   32.98 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (99.38%)
+⏱ AI Coding Time: 5 hrs 15 mins (99.36%)
 
-✍️ 10,282 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,031 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 165,544,892 Input Tokens, 400,567 Output Tokens
+🔤 163,199,895 Input Tokens, 378,527 Output Tokens
 
-💵 $835.30 Estimated AI Cost This Week
+💵 $825.15 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 49 AI Prompts
+🧠 9 AI Sessions, 44 AI Prompts
 
-Opus                     8,687 lines         █████████████████████░░░░   83.60 % 
-GPT                      1,704 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Opus                     8,687 lines         █████████████████████░░░░   85.67 % 
+GPT                      1,453 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 154 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:13:01 UTC
+ Last Updated on 31/07/2026 20:15:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
