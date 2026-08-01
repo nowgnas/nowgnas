@@ -37,7 +37,7 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 359 만큼의 Contributions을 2026년에 했어요
+> 🏆 361 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -49,9 +49,9 @@
 
 ```text
 🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-🌆 낮　                     7141 commits        ██████████████░░░░░░░░░░░   55.96 % 
-🌃 저녁                     3145 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌙 밤　                     1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+🌆 낮　                     7142 commits        ██████████████░░░░░░░░░░░   55.95 % 
+🌃 저녁                     3146 commits        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+🌙 밤　                     1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
@@ -60,9 +60,9 @@
 화요일                      1560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 목요일                      1030 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-금요일                      1106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-토요일                      4985 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
-일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+금요일                      1106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+토요일                      4987 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
+일요일                      1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
@@ -72,45 +72,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 50 mins       █████████████░░░░░░░░░░░░   53.90 % 
-Markdown                 2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.55 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               2 hrs 50 mins       ███████████████░░░░░░░░░░   60.23 % 
+Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 에디터들: 
-Claude Code              3 hrs 32 mins       █████████████████░░░░░░░░   67.02 % 
-Cursor                   1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Claude Code              3 hrs 32 mins       ███████████████████░░░░░░   74.88 % 
+Cursor                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 15 mins (99.36%)
+⏱ AI Coding Time: 4 hrs 41 mins (99.29%)
 
-✍️ 10,031 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,711 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 163,199,895 Input Tokens, 378,527 Output Tokens
+🔤 158,849,878 Input Tokens, 353,318 Output Tokens
 
-💵 $825.15 Estimated AI Cost This Week
+💵 $803.14 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 44 AI Prompts
+🧠 5 AI Sessions, 35 AI Prompts
 
-Opus                     8,687 lines         █████████████████████░░░░   85.67 % 
-GPT                      1,453 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Opus                     8,687 lines         ██████████████████████░░░   88.46 % 
+GPT                      1,133 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 20:15:12 UTC
+ Last Updated on 01/08/2026 19:54:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
