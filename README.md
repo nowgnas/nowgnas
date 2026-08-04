@@ -72,43 +72,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               26 mins             █████████████████░░░░░░░░   67.01 % 
-Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              26 mins             █████████████████░░░░░░░░   67.01 % 
-Cursor                   13 mins             ████████░░░░░░░░░░░░░░░░░   32.99 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
-
-✍️ 397 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 21,361,025 Input Tokens, 25,181 Output Tokens
-
-💵 $114.60 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Opus                     273 lines           ███████████████░░░░░░░░░░   59.61 % 
-GPT                      185 lines           ██████████░░░░░░░░░░░░░░░   40.39 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 259 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/08/2026 19:54:24 UTC
+ Last Updated on 04/08/2026 20:18:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
