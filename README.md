@@ -25,6 +25,10 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C691%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.13%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
@@ -86,24 +90,24 @@ Mac                      1 hr 33 mins        ███████████�
 
 ✍️ 2,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,271,842 Input Tokens, 92,229 Output Tokens
+🔤 14,213,273 Input Tokens, 90,610 Output Tokens
 
-💵 $48.88 Estimated AI Cost This Week
+💵 $48.54 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 17 AI Prompts
+🧠 7 AI Sessions, 16 AI Prompts
 
 GPT                      2,859 lines         █████████████████████████   99.51 % 
 Opus                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 943 characters per prompt
+📄 Detailed Prompter — average 1,000 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 00:33:17 UTC
+ Last Updated on 07/08/2026 19:41:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
