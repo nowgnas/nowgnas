@@ -72,42 +72,39 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 21 mins        ██████████████████████░░░   86.90 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown                 14 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Cursor                   1 hr 21 mins        ██████████████████████░░░   86.90 % 
-Claude Code              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Cursor                   14 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (100.0%)
+⏱ AI Coding Time: 14 mins (100.0%)
 
-✍️ 2,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 454 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,213,273 Input Tokens, 90,610 Output Tokens
+🔤 4,969,524 Input Tokens, 17,705 Output Tokens
 
-💵 $48.54 Estimated AI Cost This Week
+💵 $6.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 16 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      2,859 lines         █████████████████████████   99.51 % 
-Opus                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+GPT                      454 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,000 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 1,551 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 19:41:58 UTC
+ Last Updated on 08/08/2026 19:17:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
