@@ -31,13 +31,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.13%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.14%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 364 만큼의 Contributions을 2026년에 했어요
+> 🏆 366 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -49,17 +49,17 @@
 
 ```text
 🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-🌆 낮　                     7142 commits        ██████████████░░░░░░░░░░░   55.94 % 
-🌃 저녁                     3148 commits        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-🌙 밤　                     1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+🌆 낮　                     7142 commits        ██████████████░░░░░░░░░░░   55.93 % 
+🌃 저녁                     3148 commits        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+🌙 밤　                     1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
 월요일                      1076 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-화요일                      1560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-목요일                      1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+화요일                      1562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+수요일                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+목요일                      1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 금요일                      1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 토요일                      4987 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
 일요일                      1749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
@@ -88,7 +88,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2026 19:19:47 UTC
+ Last Updated on 10/08/2026 19:42:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
