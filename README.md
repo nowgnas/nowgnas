@@ -37,32 +37,32 @@
 
 > 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 408 만큼의 Contributions을 2026년에 했어요
+> 🏆 413 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 184개의 Public Repository를 만들었어요. 
  > 
-> 🔑 74개의 Private Repository를 만들었어요. 
+> 🔑 75개의 Private Repository를 만들었어요. 
  > 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-🌆 낮　                     7147 commits        ██████████████░░░░░░░░░░░   55.79 % 
-🌃 저녁                     3168 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌙 밤　                     1537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+🌆 낮　                     7147 commits        ██████████████░░░░░░░░░░░   55.77 % 
+🌃 저녁                     3168 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌙 밤　                     1541 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      1082 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-화요일                      1565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+월요일                      1082 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+화요일                      1565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 수요일                      1265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-목요일                      1036 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-금요일                      1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-토요일                      4997 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
-일요일                      1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+목요일                      1036 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+금요일                      1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+토요일                      4997 commits        ██████████░░░░░░░░░░░░░░░   38.99 % 
+일요일                      1761 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -72,44 +72,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 29 mins             █████████████████████████   99.98 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              16 mins             ██████████████░░░░░░░░░░░   55.41 % 
-Codex Vscode             11 mins             ██████████░░░░░░░░░░░░░░░   39.78 % 
-IntelliJ IDEA            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 88,084 Input Tokens, 39,136 Output Tokens
-
-💵 $11.28 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 339 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 21:21:00 UTC
+ Last Updated on 12/09/2026 20:58:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center">
