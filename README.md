@@ -9,7 +9,7 @@
 ## 💼 Experience
 
 **eBay Japan** · Backend Engineer<br>
-2026.09 – 재직 중 · Qoo10 Japan 커머스 · 셀러샵 백엔드
+2026.09 – 재직 중
 
 **롯데쇼핑(주) e커머스사업본부** · Software Engineer<br>
 2024.02 – 2026.09
