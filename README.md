@@ -1,162 +1,55 @@
-## 🤸HI im sangwon
-<!--
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nowgnas&theme=dracula" />
--->
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/nowgnas"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
-<div align="center">
-    <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=nowgnas&amp;show_icons=true&amp;theme=material-palenight" alt="nowgnas's GitHub stats" /><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=nowgnas&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
-</div>
-<!-- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowgnas&theme=calm&show_icons=true" height='200px'>
-</a><br>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnas&theme=calm&exclude_repo=Jagi,assignment&layout=compact" height='200px'>
-  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' height='200px'>
-</a> -->
+# Hi, I'm Sangwon 👋
 
-<hr>
+**A backend engineer who designs data-driven, reliable servers.**
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C694%20hrs%2037%20mins-blue?style=flat)
+- 🏢 **eBay Japan** — Qoo10 Japan 커머스 · 셀러샵 백엔드
+- 🔍 관심사 — 캐시 전략, 장애 대응(timeout · retry · 멱등성), 대용량 트래픽, Agent-Driven Development
+- ✍️ 기술 블로그 — [marshmel.log](https://nowgnas.github.io/)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%203%20mins-blue?style=flat)
+<br>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+## 🛠 Tech Stack
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.41%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+**Backend**<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 
-**🐱 저의 GitHub 정보에요.** 
+**Data & Messaging**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 
-> 📦 GitHub의 2.8 MB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 451 만큼의 Contributions을 2026년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 185개의 Public Repository를 만들었어요. 
- > 
-> 🔑 74개의 Private Repository를 만들었어요. 
- > 
-**저는 아침형 인간이에요. 🐤** 
+<br>
 
-```text
-🌞 아침                     959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-🌆 낮　                     7158 commits        ██████████████░░░░░░░░░░░   55.69 % 
-🌃 저녁                     3177 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌙 밤　                     1560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-```
-📅 **제가 가장 생산적인 날은 토요일이에요.** 
+## 📌 Projects
 
-```text
-월요일                      1091 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-화요일                      1567 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-수요일                      1265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-목요일                      1039 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-금요일                      1118 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-토요일                      4997 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
-일요일                      1777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-```
+| Project | Description | Keywords |
+|---|---|---|
+| [**verifyhub**](https://github.com/nowgnas/verifyhub) | Server-to-Server 본인인증 오케스트레이터. Mock Provider로 장애 · 지연 · timeout · 중복/지연 callback 시나리오를 검증 | `Spring Boot` `Hexagonal` `Resilience` |
+| [**knack**](https://github.com/nowgnas/knack) | 백엔드 개발자용 AI 에이전트 하네스. Claude Code · Codex의 스킬 · 룰 · 훅 · 서브에이전트를 레포 하나로 관리 | `Python` `Claude Code` `Codex` |
+| [**ADD**](https://github.com/nowgnas/ADD) | Agent-Driven Development 패키지 구조 실험. 에이전트가 변경 범위를 이해하고 검증 결과를 남기는 구조 | `Java 25` `Spring Boot 4` |
+| [**prism**](https://github.com/nowgnas/prism) | 네온 스타일 macOS 터미널 멀티플렉서. Homebrew tap으로 배포 | `Swift` `macOS` |
 
+<br>
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+## ✍️ Latest Posts
 
-```text
-🕑︎ Timezone: Asia/Seoul
+<!-- BLOG-POST-LIST:START -->
+- [Harness Engineering은 선택이 아니라 필수일지도 모른다.](https://nowgnas.github.io/posts/agent-harness/)
+- [Gemini 3 Seoul Hackathon 참여 후기](https://nowgnas.github.io/posts/gemini-hackathon/)
+- [비회원 최근 본 상품 기능 설계하기](https://nowgnas.github.io/posts/recent-products/)
+- [캐시 전략과 요구사항에 맞는 캐시 전략 선택하기](https://nowgnas.github.io/posts/redis-cache/)
+- [서비스 장애가 발생하는 다양한 상황과 대응 방법: timeout](https://nowgnas.github.io/posts/timeout/)
+<!-- BLOG-POST-LIST:END -->
 
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+➡️ [더 많은 글 보기](https://nowgnas.github.io/)
 
-🔥 에디터들: 
-이번 주에 활동은 없어요.
+<br>
 
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-```
+## 📫 Contact
 
-🤖 **AI Coding This Week** 
+<p>
+  <a href="mailto:dev.nowgnas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://nowgnas.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=githubpages&logoColor=white" /></a>
+</p>
 
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 17/09/2026 21:49:03 UTC
-<!--END_SECTION:waka-->
-
-<!-- <div align="center">
-  <h2>⌨️Languages and Tools⌨️</h2>
-  <div align=flex>
-    <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" alt="Python Badge">
-  </div>
-
-  <div>
-  <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
-  <img height="25px" src="https://img.shields.io/badge/Node js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white" alt="Python Badge">
-  <img height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=MongoDB&amp;logoColor=white" alt="Python Badge">
-  <img height="25px" src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" alt="Python Badge">
-   <img height="25px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="Python Badge">
-  </div>
-  <div>
-  <img height="25px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&amp;logo=Visual Studio Code&amp;logoColor=white" alt="Python Badge">
-  <img height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=Ubuntu&amp;logoColor=white" alt="Python Badge">
-  </div>
-</div>
-<br> -->
-<!--
-<h2 align=center>⌨️Languages and Tools⌨️</h2>
-<div>
-  <div style='float:left; margin-right:30px; width:200px'>
-  <h3>🎈Languages🎈</h3>
-  <div>
-    <img height="25px" src="https://img.shields.io/badge/Java-FF7800?style=flat&amp;&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
-      <img height="25px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" alt="Python Badge">
-  </div>
-  
-  </div>
-  <div style='float:left; margin-right:30px; width:200px'>
-  <h3>🛠️Frameworks🛠️</h3>
-  <div>
-    <img height="25px" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&amp;logo=NestJS&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/Node js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=MongoDB&amp;logoColor=white" alt="Python Badge">
-     <img height="25px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="Python Badge">
-  </div>
-  </div>
-  <div style='float:left;'>
-  <h3>⚙️Tools⚙️</h3>
-  <div>
-    <img height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=Ubuntu&amp;logoColor=white" alt="Python Badge">
-    <img height="25px" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=Docker&amp;logoColor=white" alt="Python Badge">
-  </div>
-  </div>
-</div>
--->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nowgnas&column=7&margin-w=15&margin-h=15) -->
-
-<!--
-**Marshmellowon/Marshmellowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- style='display:grid; grid-template-columns: auto auto auto;' -->

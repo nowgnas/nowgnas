@@ -1,0 +1,22 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # 매일 09:00 KST
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://nowgnas.github.io/feed.xml"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts"
